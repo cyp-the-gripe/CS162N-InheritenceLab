@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj": {}
+    "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\CS162N-InheritenceLab\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj": {
+    "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\CS162N-InheritenceLab\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj",
+        "projectUniqueName": "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\CS162N-InheritenceLab\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj",
         "projectName": "CustomerProductSolution",
-        "projectPath": "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj",
+        "projectPath": "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\CS162N-InheritenceLab\\ClassesLab_Inheritance\\CustomerProductSolution\\CustomerProductSolution.csproj",
         "packagesPath": "C:\\Users\\cypre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\ClassesLab_Inheritance\\CustomerProductSolution\\obj\\",
+        "outputPath": "C:\\Users\\cypre\\OneDrive\\Desktop\\CS162N-CodingProjects\\CS162N-InheritenceLab\\ClassesLab_Inheritance\\CustomerProductSolution\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
