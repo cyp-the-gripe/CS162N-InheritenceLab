@@ -1,0 +1,14 @@
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\bin\Debug\net9.0\CustomerProductSolution.exe
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\bin\Debug\net9.0\CustomerProductSolution.deps.json
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\bin\Debug\net9.0\CustomerProductSolution.runtimeconfig.json
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\bin\Debug\net9.0\CustomerProductSolution.dll
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\bin\Debug\net9.0\CustomerProductSolution.pdb
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.AssemblyInfoInputs.cache
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.AssemblyInfo.cs
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.csproj.CoreCompileInputs.cache
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.dll
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\refint\CustomerProductSolution.dll
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.pdb
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\CustomerProductSolution.genruntimeconfig.cache
+C:\Users\cypre\OneDrive\Desktop\CS162N-CodingProjects\ClassesLab_Inheritance\CustomerProductSolution\obj\Debug\net9.0\ref\CustomerProductSolution.dll

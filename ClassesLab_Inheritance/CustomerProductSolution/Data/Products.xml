@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>1</Id>
+    <Code>T100</Code>
+    <Description>This is a test product</Description>
+    <UnitPrice>100</UnitPrice>
+    <QuantityOnHand>10</QuantityOnHand>
+  </Product>
+  <Product>
+    <Id>2</Id>
+    <Code>T200</Code>
+    <Description>This is a test product 2</Description>
+    <UnitPrice>200</UnitPrice>
+    <QuantityOnHand>20</QuantityOnHand>
+  </Product>
+  <Product xsi:type="Clothing">
+    <Id>3</Id>
+    <Code>C100</Code>
+    <Description>Running tights</Description>
+    <UnitPrice>69.99</UnitPrice>
+    <QuantityOnHand>3</QuantityOnHand>
+    <Category>pants</Category>
+    <Gender>womens</Gender>
+    <Size>large</Size>
+    <Color>blue</Color>
+    <Brand>Lucy</Brand>
+  </Product>
+  <Product xsi:type="Clothing">
+    <Id>4</Id>
+    <Code>C200</Code>
+    <Description>Running tights</Description>
+    <UnitPrice>69.99</UnitPrice>
+    <QuantityOnHand>4</QuantityOnHand>
+    <Category>pants</Category>
+    <Gender>womens</Gender>
+    <Size>medium</Size>
+    <Color>black</Color>
+    <Brand>Nike</Brand>
+  </Product>
+  <Product xsi:type="Gear">
+    <Id>5</Id>
+    <Code>G100</Code>
+    <Description>Sky 10 Kayak</Description>
+    <UnitPrice>1049</UnitPrice>
+    <QuantityOnHand>2</QuantityOnHand>
+    <Sport>paddle</Sport>
+    <Brand>Eddyline</Brand>
+    <Feature>plastic laminate</Feature>
+    <Weight>32</Weight>
+  </Product>
+  <Product xsi:type="Gear">
+    <Id>6</Id>
+    <Code>G200</Code>
+    <Description>Sting Ray Posi-Lok kayak paddle</Description>
+    <UnitPrice>149.95</UnitPrice>
+    <QuantityOnHand>5</QuantityOnHand>
+    <Sport>paddle</Sport>
+    <Brand>Aqua-Bound</Brand>
+    <Feature>carbon shaft</Feature>
+    <Weight>1.75</Weight>
+  </Product>
+</ArrayOfProduct>
